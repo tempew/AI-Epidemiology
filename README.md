@@ -17,7 +17,7 @@ The framework places zero burden on experts and provides automatic audit trails 
 
 ## Paper
 
-📄 **(AI Epidemiology.pdf)**
+📄 ** https://github.com/tempew/AI-Epidemiology/blob/main/AI%20Epidemiology.pdf (AI Epidemiology.pdf)**
 
 - 41 pages, 4 tables
 - Submitted to arXiv (cs.AI, pending moderation) and AI & Society
