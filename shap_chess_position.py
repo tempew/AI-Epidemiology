@@ -57,7 +57,7 @@ with torch.no_grad():
 generated_text = tokenizer.decode(
     generated[0][inputs['input_ids'].shape[-1]:], skip_special_tokens=True
 )
-print("\n✅ GPT-2 Output:\n")
+print("\n GPT-2 Output:\n")
 print(generated_text)
 
 # ===============================
@@ -119,7 +119,7 @@ for i, (token, score) in enumerate(zip(tokens, scores)):
 # ===============================
 ranked_words = sorted(word_scores.items(), key=lambda x: abs(x[1]), reverse=True)
 
-print("\n✅ Word-Level SHAP Importances (Ranked by Absolute Importance):\n")
+print("\n Word-Level SHAP Importances (Ranked by Absolute Importance):\n")
 
 with open("shap_output_words_position2.txt", "w", encoding="utf-8") as f:
     f.write("### Prompt ###\n" + prompt + "\n\n")
@@ -131,4 +131,4 @@ with open("shap_output_words_position2.txt", "w", encoding="utf-8") as f:
         print(line)
         f.write(line + "\n")
 
-print("\n✅ Output saved to: shap_output_words_position2.txt")
+
