@@ -77,7 +77,7 @@ Population-level pattern analysis enabling:
 - Paper complete (41 pages)
 - ArXiv submission pending endorsement
 - Submitted to AI & Society
-- Code for SHAP chess study can be found here: 
+- Code for SHAP chess study can be found here: https://github.com/tempew/AI-Epidemiology/blob/main/shap_chess_position.py 
 
 ---
 
