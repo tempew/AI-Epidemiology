@@ -17,7 +17,7 @@ The framework places zero burden on experts and provides automatic audit trails 
 
 ## Paper
 
-📄 **[Read the full paper (PDF)](AI Epidemiology.pdf)**
+📄 **(AI Epidemiology.pdf)**
 
 - 41 pages, 4 tables
 - Submitted to arXiv (cs.AI, pending moderation) and AI & Society
@@ -75,9 +75,9 @@ Population-level pattern analysis enabling:
 ## Status
 
 - Paper complete (41 pages)
-- ⏳ ArXiv submission pending endorsement
-- 📧 Submitted to AI & Society
-- 💻 Code and RAG documents available upon request
+- ArXiv submission pending endorsement
+- Submitted to AI & Society
+- Code and RAG documents available upon request
 
 ---
 
