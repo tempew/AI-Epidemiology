@@ -77,7 +77,7 @@ Population-level pattern analysis enabling:
 - Paper complete (41 pages)
 - ArXiv submission pending endorsement
 - Submitted to AI & Society
-- Code and RAG documents available upon request
+- Code for SHAP chess study can be found here: 
 
 ---
 
